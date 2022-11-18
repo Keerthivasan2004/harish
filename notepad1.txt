@@ -5,4 +5,18 @@ Git introduction:
 
                   -The version ciontrol system allows us to monitor work together with our team members. 
 
-                  -                                                                                    
+                  - git is an open source distributed version control system.
+                  
+                  -major projects with high speed and efficiency.
+                  
+                  -services like github and gitlab.
+                  
+                  -git without using any other git services.
+                  
+                  -features of git are open source,scalability,security,speed.
+                  
+                  -git is open source tool.
+                  
+                  -release under gpl (general public license )
+                  
+                 
